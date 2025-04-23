@@ -1,0 +1,1 @@
+t,Firm_id,Parcel_id,Production,Provalue,Profit,Risk,PG_SO2,PG_NOx,PG_VOC,PG_COD,PG_NH,PG_PM,RR_SO2,RR_NOx,RR_VOC,RR_COD,RR_NH,RR_PM,Gen_SO2,Gen_NOx,Gen_VOC,Gen_COD,Gen_NH,Gen_PM,Emi_SO2,Emi_NOx,Emi_VOC,Emi_COD,Emi_NH,Emi_PM,Wconsume,Econsume,Beta,Proparam
